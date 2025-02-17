@@ -1,0 +1,22 @@
+{
+  "name": "typescript_masterclass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StevTobs/TYSCRIPT_CLSROOM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StevTobs/TYSCRIPT_CLSROOM/issues"
+  },
+  "homepage": "https://github.com/StevTobs/TYSCRIPT_CLSROOM#readme",
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}
